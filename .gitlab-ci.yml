@@ -13,3 +13,4 @@ test:
   stage: test
   script:
     - mvn test
+Add GitLab CI pipeline
